@@ -1,8 +1,8 @@
 <h2 align="left">Hi 👋, I'm Gabriel</h2>
 
-<h4 align="left">A Full Stack Developer (MERN) from Argentina 🇦🇷</h4>
+<h4 align="left">A Full Stack Developer (JS) from Argentina 🇦🇷</h4>
 
-🌱 I’m currently learning **ReactJS**
+🌱 I’m currently working at <a href="https://www.infobae.com" target="blank">Infobae.com</a>
 
 📪 Contact with me: 
 
