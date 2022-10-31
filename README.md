@@ -8,7 +8,7 @@ I'm Gabriel, a javascript fullstack developer. Also software architect in progre
 - 👨‍💻 TypeScript, JavaScript
 - ⚙️  Node, React
 - 👁️ SASS, CSS
-- 💽 MySQL, Mongo
+- 💽 MySQL, Mongo, Redis
 - 🔩 ETL, Microservices
 
 ## Published Packages
