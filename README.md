@@ -12,7 +12,8 @@ I'm Gabriel, a javascript fullstack developer. Also software architect in progre
 - 🔩 ETL, Microservices
 
 ## Published Packages
-- 🏔 [Aconcagua App](https://www.npmjs.com/package/create-aconcagua-app)
+- 🏔 [Aconcagua App - NodeJS Boilerplate](https://www.npmjs.com/package/create-aconcagua-app)
+- 🔥 [Firebase Easy Functions](https://www.npmjs.com/package/firebase-easy-functions)
 
 ## Contact
 - [@gabrieldmc](https://www.linkedin.com/in/gabrieldmc/) on Linkedin
