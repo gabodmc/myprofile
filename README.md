@@ -1,5 +1,5 @@
 ## Hey! 👋
-I'm Gabriel, a javascript fullstack developer. Also software architect in progress
+I'm Gabriel, javascript fullstack developer. Also software architect in progress
 
 - 🧭 Fullstack Developer at [@infobae.com](https://www.infobae.com/)
 - 👥 Node/Fullstack Mentor at [@alkemy](https://www.alkemy.org/)
