@@ -1,8 +1,7 @@
 ## Hey! 👋
-I'm Gabriel, javascript fullstack developer. Also software architect in progress
+I'm Gabriel, web software developer
 
-- 🧭 Fullstack Developer at [@infobae.com](https://www.infobae.com/)
-- 👥 Node/Fullstack Mentor at [@alkemy](https://www.alkemy.org/)
+- 🧭 Senior Frontend Enginer at [@AdvanceLocal](https://www.advancelocal.com/)
 
 ## Skills
 - 👨‍💻 TypeScript, JavaScript
