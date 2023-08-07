@@ -1,6 +1,7 @@
 ## Hey! 👋
 I'm Gabriel, web software developer
 
+## I'm currently working as: 
 - 🧭 Senior Frontend Enginer at [@AdvanceLocal](https://www.advancelocal.com/)
 
 ## Skills
