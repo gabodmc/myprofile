@@ -2,14 +2,15 @@
 I'm Gabriel, web software developer
 
 ## I'm currently working as: 
-- 🧭 Senior Frontend Enginer at [@AdvanceLocal](https://www.advancelocal.com/)
+- 🧭 Senior Frontend Engineer at [@AdvanceLocal](https://www.advancelocal.com/)
 
 ## Skills
-- 👨‍💻 TypeScript, JavaScript
-- ⚙️  Node, React
+- 👨‍💻 TypeScript, JavaScript, Golang, Rust
+- ⚙️  Node, React, Next, Astro
 - 👁️ SASS, CSS
 - 💽 MySQL, Mongo, Redis
 - 🔩 ETL, Microservices
+- ☁️ GCP
 
 ## Published Packages
 - 🏔 [Aconcagua App - NodeJS Boilerplate](https://www.npmjs.com/package/create-aconcagua-app)
