@@ -2,7 +2,7 @@
 I'm Gabriel, web software developer
 
 ## I'm currently working as: 
-- 🧭 Senior Frontend Engineer at [@AdvanceLocal](https://www.advancelocal.com/)
+- 🧭 CTO at [@Ingala](https://www.ingala.io/)
 
 ## Skills
 - 👨‍💻 TypeScript, JavaScript, Golang, Rust
